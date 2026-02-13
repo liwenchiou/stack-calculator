@@ -1,0 +1,12 @@
+{
+  "name": "stack-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "迷你計算機：用 Stack 實作 Undo 作業",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.0"
+  }
+}
