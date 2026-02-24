@@ -102,4 +102,4 @@ npm test
 
 1. 把作業 push 到你的 GitHub repo
 2. 確認 GitHub Actions 顯示綠色勾勾
-3. 繳交你的 GitHub repo 網址
+3. 繳交你的 GitHub repo 網址.
